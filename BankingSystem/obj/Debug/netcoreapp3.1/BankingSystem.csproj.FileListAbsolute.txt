@@ -1,0 +1,13 @@
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.exe
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.dll
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csprojAssemblyReference.cache
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.dll
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+C:\Users\Nilkumar Patel\source\repos\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache

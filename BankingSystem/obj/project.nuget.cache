@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9N4HStZ3Uor1vLWTjCpSlTa2fQn2NZ28yOjEZYM2UOT+OOz/jxkvEqMNVvucePF6nklDu1k8fj3nd8AI6y5HrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nilkumar Patel\\source\\repos\\BankingSystem\\BankingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nilkumar Patel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
