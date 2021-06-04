@@ -1,0 +1,25 @@
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\Nilkumar Patel\source\repos\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.exe
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.deps.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.runtimeconfig.dev.json
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\bin\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csprojAssemblyReference.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfoInputs.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.AssemblyInfo.cs
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.dll
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.pdb
+C:\Users\Nilkumar Patel\OneDrive - Confederation College\Sem 4\ASP.NET\Lab 2 - IsItALeapYear\IsItALeapYear\obj\Debug\netcoreapp3.1\IsItALeapYear.genruntimeconfig.cache
